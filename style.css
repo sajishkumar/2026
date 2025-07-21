@@ -17,14 +17,15 @@ h1 {
 
 /* Sub Title */
 h3 {
-  margin-top: 70px;
+  margin: 0px;
+  padding: 10px
   text-align: center;
   font-size: 24px;
-  background-color: darkgray;
-  color: brown;
+  background-color: #ccc;
+  color: #990000;
   width: 100%;
   position: relative;
-  padding: 10px 0;
+  padding: 10px;
 }
 
 /* Content Section */
@@ -137,14 +138,15 @@ a {
 
 /* Dropdown Menu */
 .menu-icon {
-  width: 30px;
+  display: block;
+  width: max-content;
   cursor: pointer;
-  padding: 10px;
+  margin: 10px auto;
 }
 
 .bar {
   height: 4px;
-  width: 100%;
+  width: 25px;
   background-color: red;
   margin: 5px 0;
 }
