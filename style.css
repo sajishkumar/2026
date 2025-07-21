@@ -28,8 +28,8 @@ h1 {
 
 /* Sub-heading */
 h3 {
-  margin-top: 65px;
-  padding: 10px 0;
+  margin-top: 35px;
+  padding: 1px 0;
   text-align: center;
   font-size: 24px;
   background-color: darkgray;
@@ -45,7 +45,7 @@ h3 {
   font-size: 20px;
   font-weight: 900;
   width: 100%;
-  padding: 10px;
+  padding: 2px;
   text-align: center;
   margin: 10px auto;
 }
@@ -123,7 +123,7 @@ h3 {
 .menu-icon {
   width: 30px;
   cursor: pointer;
-  padding: 10px;
+  padding: 5px;
   margin: 10px auto;
 }
 
