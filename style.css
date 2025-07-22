@@ -141,6 +141,18 @@ h3 {
       top: 40px;
     }
 
+#gap{
+  top: 20px;
+}
+
+#gap-a{
+  top: 30px;
+}
+
+#gap-b{
+  top: 40px;
+}
+
 /* Dropdown Menu */
 .dropdown {
   display: none;
