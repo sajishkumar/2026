@@ -154,15 +154,15 @@ h3{
     }
 
 #gap{
-  top: 25px;
+  top: 56px;
 }
 
 #gap-a{
-  top: 35px;
+  top: 65px;
 }
 
 #gap-b{
-  top: 45px;
+  top: 74px;
 }
 
 /* Dropdown Menu */
@@ -221,7 +221,7 @@ a {
   }
 
   h3 {
-    font-size: 18px;
+    font-size: 15px;
   }
 
   .scroll {
