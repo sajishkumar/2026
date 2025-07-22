@@ -116,21 +116,7 @@ h3{
       object-fit: cover;
 }
 
-/* Old Celebration Button */
-.old-celebration {
-  background-color: #7c3aed;
-  color: white;
-  border: none;
-  border-radius: 20px;
-  font-size: 20px;
-  font-weight: bold;
-  width: 95%;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-  box-shadow: 0 5px 30px rgba(0, 0, 0, 0.5);
-  margin: 10px auto;
-  display: block;
-}
+
 
 /* Menu Button */
 .menu-icon {
@@ -201,12 +187,20 @@ a {
 #condition-head {
   padding: 10px;
   text-align: center;
-  font-size: 20px;
+  font-size: 25px;
   background-color: darkgray;
   border-radius: 10px;
   color: darkgreen;
   margin: 20px auto;
 }
+
+.programcondition{
+  margin-left: 5px;
+  text-align: left;
+  font-size: 18px;
+
+}
+
 
 /* Page Section Style (optional) */
 .aboutpage {
