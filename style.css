@@ -54,6 +54,13 @@ h3{
   padding: 10px;
   text-align: center;
   margin: 10px auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  /* for alin center */
+  display: block; margin: 120px auto;
 }
 
 /* Register Now Button */
@@ -143,19 +150,19 @@ h3{
       background-color: red;
       z-index: 999;
       display: block; margin: 0px auto;
-      margin-left: 4px;
+      margin-left: 5px;
     }
 
 #gap{
-  top: 20px;
+  top: 25px;
 }
 
 #gap-a{
-  top: 30px;
+  top: 35px;
 }
 
 #gap-b{
-  top: 40px;
+  top: 45px;
 }
 
 /* Dropdown Menu */
