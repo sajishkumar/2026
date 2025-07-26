@@ -8,6 +8,12 @@
 body {
   font-family: sans-serif;
   background: white;
+	
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ min-height: 100vh;
+ margin: 0;
 }
 
 /* Header Title */
@@ -238,7 +244,7 @@ a {
   }
 
   .image-container {
-    width: auto;
+    width: 99%;
     height: auto;
   }
 }
