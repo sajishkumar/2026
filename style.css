@@ -238,7 +238,7 @@ a {
   }
 
   .image-container {
-    width: 90%;
+    width: auto;
     height: auto;
   }
 }
