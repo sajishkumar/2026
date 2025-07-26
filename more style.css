@@ -28,7 +28,7 @@ background-color: brown;}
 	flex-wrap: wrap;
 	justify-content: center;
 	position: center;
-	width: 100%;
+	width: auto;
 	height: 100%;
 	margin: 20px;
 	padding: 10px;
